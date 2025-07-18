@@ -114,7 +114,7 @@ if(isset($_POST['send'])){
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>home</title>
-   <h1>this is new booking project</h1>
+   <h1>this is new booking project  varshil</h1>
 
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css" />
 
