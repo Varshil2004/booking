@@ -9,7 +9,8 @@ if(isset($_COOKIE['admin_id'])){
    header('location:login.php');
 }
 
-if(isset($_POST['delete'])){
+if(isset($_POST['delete']))
+{
 
    $delete_id = $_POST['delete_id'];
    $delete_id = filter_var($delete_id, FILTER_SANITIZE_STRING);
