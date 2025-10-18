@@ -31,7 +31,7 @@ if(isset($_POST['check'])){
    }
 
 }
-
+//final condition for book
 if(isset($_POST['book'])){
 
    $booking_id = create_unique_id();
