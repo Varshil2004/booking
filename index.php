@@ -106,7 +106,7 @@ if(isset($_POST['send'])){
 }
 
 ?>
-
+//html code starting from here 
 <!DOCTYPE html>
 <html lang="en">
 <head>
