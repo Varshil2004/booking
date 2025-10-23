@@ -81,7 +81,6 @@ if(isset($_POST['book'])){
 }
 
 if(isset($_POST['send'])){
-
    $id = create_unique_id();
    $name = $_POST['name'];
    $name = filter_var($name, FILTER_SANITIZE_STRING);
@@ -106,6 +105,7 @@ if(isset($_POST['send'])){
 }
 
 ?>
+   
 //html code starting from here 
 <!DOCTYPE html>
 <html lang="en">
