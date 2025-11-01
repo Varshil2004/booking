@@ -18,7 +18,7 @@ if(isset($_POST['check'])){
 
    $check_bookings = $conn->prepare("SELECT * FROM `bookings` WHERE check_in = ?");
    $check_bookings->execute([$check_in]);
-
+//this is condition for fetch bookings.
    while($fetch_bookings = $check_bookings->fetch(PDO::FETCH_ASSOC)){
       $total_rooms += $fetch_bookings['rooms'];
    }
