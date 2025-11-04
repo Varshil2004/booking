@@ -1,5 +1,5 @@
 <?php
-
+//here this is a code of login and useing php.
 include '../components/connect.php';
 
 if(isset($_POST['submit'])){
