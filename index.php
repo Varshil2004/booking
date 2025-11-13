@@ -170,8 +170,6 @@ if(isset($_POST['send'])){
 
 </section>
 
-<!-- home section ends -->
-
 <!-- availability section starts  -->
 
 <section class="availability" id="availability">
