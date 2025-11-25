@@ -1,5 +1,5 @@
 <?php
-
+//this is php code for this website page.
 include 'components/connect.php';
 
 if(isset($_COOKIE['user_id'])){
