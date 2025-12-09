@@ -1,4 +1,3 @@
-
 <?php
 //this is a php code of this website.
 include 'components/connect.php';
@@ -107,6 +106,7 @@ if(isset($_POST['send'])){
 
 ?>
 
+<!-- the html code for this website starts from here.-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
