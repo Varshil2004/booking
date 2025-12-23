@@ -1,4 +1,5 @@
 <?php
+//this a php code for booking website.
 include 'components/connect.php';
 
 if(isset($_COOKIE['user_id'])){
