@@ -1,4 +1,5 @@
 <?php
+//this is booking website index page code for see what is inside the code.
 include 'components/connect.php';
 
 if(isset($_COOKIE['user_id'])){
