@@ -1,5 +1,4 @@
 <?php
-// this is a php code for booking website which help to book hotels according to your choice.
 include 'components/connect.php';
 if(isset($_COOKIE['user_id'])){
    $user_id = $_COOKIE['user_id'];
