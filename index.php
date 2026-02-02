@@ -1,4 +1,5 @@
 <?php
+//this is a booking code which is show all functionality of this website.
 include 'components/connect.php';
 if(isset($_COOKIE['user_id'])){
    $user_id = $_COOKIE['user_id'];
