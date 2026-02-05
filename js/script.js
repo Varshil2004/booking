@@ -1,5 +1,5 @@
 let navbar = document.querySelector('.header .navbar');
-
+//this is a javascript code for this booking website give function to this website and make look attractive.
 document.querySelector('#menu-btn').onclick = () =>{
    navbar.classList.toggle('active');
 }
