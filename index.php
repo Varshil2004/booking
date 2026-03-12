@@ -1,6 +1,6 @@
 <?php
 //this is a booking code which is show all functionality of this website.
-// this is a booking website so it need to book some hotel or else.
+
 include 'components/connect.php';
 if(isset($_COOKIE['user_id'])){
    $user_id = $_COOKIE['user_id'];
