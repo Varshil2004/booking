@@ -1,4 +1,4 @@
-// this is a booking website home page code.
+// index page
 <?php
 include 'components/connect.php';
 if(isset($_COOKIE['user_id'])){
