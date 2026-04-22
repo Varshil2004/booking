@@ -1,5 +1,5 @@
 <?php
-
+// this ia a php website of booking.
 include '../components/connect.php';
 
 if(isset($_COOKIE['admin_id'])){
