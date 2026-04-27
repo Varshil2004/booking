@@ -1,5 +1,5 @@
 <?php
-
+//connection page code.
    $db_name = 'mysql:host=localhost;dbname=hotel_db';
    $db_user_name = 'root';
    $db_user_pass = '';
