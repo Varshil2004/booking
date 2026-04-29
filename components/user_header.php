@@ -1,4 +1,4 @@
-<!--user header section starts  -->
+<!-- header section starts  -->
 
 <section class="header">
 
