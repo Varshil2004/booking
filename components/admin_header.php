@@ -1,3 +1,4 @@
+<!--admin header code.-->
 <header class="header">
 
    <section class="flex">
