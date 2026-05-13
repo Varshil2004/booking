@@ -1,3 +1,4 @@
+//admin side java script code.
 let navbar = document.querySelector('.header .flex .navbar');
 let menuBtn = document.querySelector('.header .flex #menu-btn');
 
