@@ -1,5 +1,5 @@
 <?php
-//here this is a code of login.
+//here this is a code of login page.
 include '../components/connect.php';
 
 if(isset($_POST['submit'])){
