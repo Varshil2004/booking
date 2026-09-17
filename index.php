@@ -1,4 +1,4 @@
-// Index page code for booking Website.
+// Index page code for Booking Website.
 <?php
 include 'components/connect.php';
 if(isset($_COOKIE['user_id'])){
