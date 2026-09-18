@@ -1,5 +1,5 @@
 <?php
-
+//This is dashboard code.
 include '../components/connect.php';
 
 if(isset($_COOKIE['admin_id'])){
