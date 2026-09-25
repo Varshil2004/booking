@@ -1,5 +1,5 @@
 <?php
-//This is a admin page code.
+//This is a Admin page code.
 include '../components/connect.php';
 
 if(isset($_COOKIE['admin_id'])){
