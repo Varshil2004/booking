@@ -1,5 +1,5 @@
 <?php
-//This is a message webpage code.
+//This is a message webpage code for this website.
 include '../components/connect.php';
 
 if(isset($_COOKIE['admin_id'])){
