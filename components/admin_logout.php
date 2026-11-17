@@ -1,5 +1,5 @@
 <?php
-//admin logout page code.
+//admin logout.
 include 'connect.php';
 
 setcookie('admin_id', '', time() - 1, '/');
