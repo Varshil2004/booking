@@ -1,4 +1,4 @@
-<!--footer section starts for website. -->
+<!--footer section -->
 
 <section class="footer">
 
