@@ -1,3 +1,4 @@
+//this is a message php code.
 <?php
 
 if(isset($success_msg)){
